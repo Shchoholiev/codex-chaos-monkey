@@ -1,7 +1,7 @@
 {
   "id": "root-monkey",
   "displayName": "Chaos Monkey",
-  "description": "A mischievous software monkey in a backwards cap and hoodie, testing recovery with his banana hammer.",
+  "description": "A mischievous software monkey testing your system’s resilience with his banana hammer.",
   "spriteVersionNumber": 2,
   "spritesheetPath": "spritesheet.webp"
 }
